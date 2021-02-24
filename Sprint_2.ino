@@ -1,3 +1,6 @@
+//modified by Bekkele Hamilton
+//dual LEDs
+
 int red_light_pin= 11;
 int green_light_pin = 10;
 int blue_light_pin = 9;
