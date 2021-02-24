@@ -1,3 +1,5 @@
+//modified by Bekkele Hamilton
+
 #include <Servo.h>  // add servo library
  
 Servo myservo;  // create servo object to control a servo
