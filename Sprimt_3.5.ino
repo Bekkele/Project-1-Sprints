@@ -1,3 +1,4 @@
+//modified by Bekkele Hamilton
 
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
